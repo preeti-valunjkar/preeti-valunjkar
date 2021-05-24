@@ -1,8 +1,8 @@
 # Hey there, I'm Preeti! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a **Computer Science student** at the **University of Waterloo**!
+I'm a **Computer Science student** at the **University of Waterloo**, deeply interested in Software development and engineering!
 
-- 🍕 My most recent project is PizzaPleez, a Python wrapper for the Domino's Pizza API. [Check it out here!](project link)
+- 🍕 My most recent project is Create Dictionary, a program in C to create a lexicographic dictionary. [Check it out here!](project link)
 - 💻 I am currently working on my personal website.
 - 🤹 My Skills: C/C++, HTML, CSS, Javascript, Racket, Python, Racket, Arduino, XML
 - 😄 Pronouns: she/her
