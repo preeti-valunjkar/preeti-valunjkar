@@ -2,7 +2,7 @@
 
 I'm a **Computer Science student** at the **University of Waterloo**, deeply interested in Software development and engineering!
 
-- 🍕 My most recent project is Create Dictionary, a program in C to create a lexicographic dictionary. [Check it out here!](project link)
+- 🍕 My most recent project is Create Dictionary, a program in C to create a lexicographic dictionary. [Check it out here!](https://github.com/preeti-valunjkar/create-dictionary)
 - 💻 I am currently working on my personal website.
 - 🤹 My Skills: C/C++, HTML, CSS, Javascript, Racket, Python, Racket, Arduino, XML
 - 😄 Pronouns: she/her
